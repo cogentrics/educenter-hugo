@@ -7,8 +7,8 @@ url = "about/"
 weight = 1
 
 [[main]]
-name = "course"
-url = "course/"
+name = "products"
+url = "products/"
 weight = 2
 
 [[main]]
@@ -43,6 +43,7 @@ weight = 5
 [[footer]]
 name = "teacher"
 url = "teacher/"
+
 
 
 
