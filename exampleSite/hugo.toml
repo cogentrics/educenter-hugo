@@ -6,9 +6,9 @@ logo = "images/logo.png"
 description = "This is meta description"
 author = "Themefisher"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@educenter.com"
+address = "565/7, Subhash Nagar, Nehru Lane, Gurgaon-122001, Haryana, India"
+mobile = "+919818365695,+919871066679"
+email = "sales@cogentrics.in"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
